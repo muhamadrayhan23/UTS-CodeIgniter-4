@@ -7,4 +7,4 @@
 ## Tampilan Aplikasi
 ![Halaman Utama](Assets/tampilan.png)
 
-Terima kasih!
+## Terima Kasih!
