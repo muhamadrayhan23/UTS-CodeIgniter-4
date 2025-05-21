@@ -1,6 +1,5 @@
 # Tugas Aplikasi CRUD Manajemen Tugas Mahasiswa Memakai Framework Code Igniter
 
-## Identitas Pembuat
 - **Nama**: Muhamad Rayhan Fadillah
 - **NIM** : 234260009
 
