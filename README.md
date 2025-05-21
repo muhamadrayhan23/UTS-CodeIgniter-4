@@ -1,4 +1,4 @@
-# Tugas Aplikasi CRUD Manajemen Tugas Mahasiswa Memakai Framework Code Igniter
+# Tugas Aplikasi CRUD Manajemen Tugas Mahasiswa Memakai Framework CodeIgniter 4
 
 - **Nama**: Muhamad Rayhan Fadillah
 - **NIM**: 234260009
