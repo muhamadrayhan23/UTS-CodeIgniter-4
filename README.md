@@ -4,6 +4,14 @@
 - **NIM : 234260009**
 
 ## Tampilan Aplikasi
-![Halaman Utama](Assets/tampilan.png)
+
+### Halaman Utama
+![Halaman Utama](Assets/index.png)
+
+### Halaman Tambah
+![Halaman Tambah](Assets/tambah.png)
+
+### Halaman Edit
+![Halaman Edit](Assets/edit.png)
 
 ## Terima Kasih!
