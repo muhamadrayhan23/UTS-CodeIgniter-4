@@ -17,7 +17,7 @@
 
     <!-- Mengecek apakah ada data tugas -->
     <?php if (!empty($tugas) && is_array($tugas)) : ?>
-        <!-- Tabel responsif dengan Bootstrap -->
+        <!-- Tabel Data responsif dengan Bootstrap -->
         <div class="table-responsive">
             <table class="table table-bordered table-striped">
                 <thead class="table-dark">
